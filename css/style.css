@@ -1,0 +1,49 @@
+body { 
+  
+
+    color: rgb(8, 8, 8);
+    font-family:'Calibri';
+
+  }
+
+.jumbotron {
+    background-image: url('../Images/lab5.jpg');
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgba(231, 9, 9, 0.966);
+  }
+  .well {
+    background-color: rgb(230, 15, 61);
+    font-family:'Calibri';
+    font-weight: 90;
+    font-size: smaller;
+  }
+
+  .panel {
+    background-color: rgb(29, 79, 216);
+    font-family:'Calibri';
+    font-weight: 90;
+    
+      }
+
+#know {
+  font-family:'Calibri';
+        font-weight: 90;
+        font-size: medium;
+        /* background-color: whitesmoke; */
+      }
+      
+#otu {
+        font-family:'Calibri';
+        font-weight: 90;
+        font-size: medium;
+        /* background-color: whitesmoke; */
+      }
+
+#scrub{
+        font-family:'Calibri';
+        font-weight: 90;
+        font-size: medium;
+        /* background-color: whitesmoke; */
+      }    
+
